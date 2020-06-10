@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/airProject/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/airProject/static/js/main.5619e5dc.chunk.js",
+    "main.js.map": "/airProject/static/js/main.5619e5dc.chunk.js.map",
+    "runtime-main.js": "/airProject/static/js/runtime-main.a8af79c2.js",
+    "runtime-main.js.map": "/airProject/static/js/runtime-main.a8af79c2.js.map",
+    "static/js/2.94ff3d9a.chunk.js": "/airProject/static/js/2.94ff3d9a.chunk.js",
+    "static/js/2.94ff3d9a.chunk.js.map": "/airProject/static/js/2.94ff3d9a.chunk.js.map",
+    "index.html": "/airProject/index.html",
+    "precache-manifest.35aac996c1348e91c1c8f16e0a77c1b3.js": "/airProject/precache-manifest.35aac996c1348e91c1c8f16e0a77c1b3.js",
+    "service-worker.js": "/airProject/service-worker.js",
+    "static/css/main.eab24d3c.chunk.css.map": "/airProject/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.94ff3d9a.chunk.js.LICENSE.txt": "/airProject/static/js/2.94ff3d9a.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/airProject/static/media/Logo.d78fd1bd.png",
+    "static/media/main.png": "/airProject/static/media/main.10e18933.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8af79c2.js",
+    "static/js/2.94ff3d9a.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.5619e5dc.chunk.js"
+  ]
+}
